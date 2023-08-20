@@ -1,4 +1,4 @@
-Welcome to Chirper!
+<h1>Welcome to Chirper!</h1>
 
 ## What is Chirper?
  ~ A microblogging platform called Chirper, that is built with laravel and TailwindCSS.
